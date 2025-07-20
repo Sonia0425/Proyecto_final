@@ -1,0 +1,6 @@
+FIREBASE_API_KEY= #tus claves firebase
+FIREBASE_AUTH_DOMAIN= #tus claves firebase
+FIREBASE_PROJECT_ID= #tus claves firebase
+FIREBASE_STORAGE_BUCKET= #tus claves firebase
+FIREBASE_MESSAGING_SENDER_ID= #tus claves firebase
+FIREBASE_APP_ID= #tus claves firebase
